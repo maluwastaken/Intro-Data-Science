@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GODZILLA/Desktop/Faculdade/2022.1/DS/Intro-Data-Science/mlruns/0/3ae95f3a8e564851bd3f7781636bf351/artifacts
+end_time: 1664455925914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3ae95f3a8e564851bd3f7781636bf351
+run_uuid: 3ae95f3a8e564851bd3f7781636bf351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664455807609
+status: 3
+tags: []
+user_id: gme
