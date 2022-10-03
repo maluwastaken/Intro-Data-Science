@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/GODZILLA/Desktop/Faculdade/2022.1/DS/Intro-Data-Science/mlruns/0/27fcc8cc9a7f42fbaeb5fb8c9265f0d6/artifacts
+deleted_time: 1664801896015
 end_time: 1664409473542
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: 27fcc8cc9a7f42fbaeb5fb8c9265f0d6
 run_uuid: 27fcc8cc9a7f42fbaeb5fb8c9265f0d6
